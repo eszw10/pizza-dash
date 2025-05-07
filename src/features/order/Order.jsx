@@ -10,7 +10,7 @@ import {
 
 import OrderItem from "./OrderItem";
 import { useEffect } from "react";
-import UpdateOrder from "./updateOrder";
+import UpdateOrder from "./UpdateOrder";
 
 //CQE92U
 //IIDSAT
